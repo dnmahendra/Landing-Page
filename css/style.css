@@ -1,0 +1,12 @@
+/* Navigation Section*/
+.top navigation .links {
+	background-color: #fff;
+	float: left;
+}
+
+.top navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
+}
+
