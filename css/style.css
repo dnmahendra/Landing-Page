@@ -1,7 +1,20 @@
 /* Navigation Section*/
-.top navigation .links {
+
+.top navigation .links > li {
 	background-color: #fff;
-	float: left;
+	float: right;
+}
+
+ul {
+	list-style: none;
+	list-style-type: none;
+	list-style-position: none;
+}
+
+.links > li {
+
+display: inline-block;
+
 }
 
 .top navigation > .content {
